@@ -1,0 +1,25 @@
+
+	srv_vb01 ( 10.0.32.59 ) / Vonix
+
+
+	tabelas :
+
+	Completadas_8011
+	Completadas_8012
+	Completadas_8000
+	wave
+	wave_tabs	
+
+
+	app 
+
+	informar telefone
+	indicar em qual tabela Completada_XXXX procurar
+
+	se localizar vai buscar na tabela : wave
+	onde esta o arquivo .wave correspondete
+
+	se localizar pode salvar uma cópia
+	em local informado.
+
+

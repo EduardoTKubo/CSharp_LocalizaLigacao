@@ -1,0 +1,30 @@
+C:\Ekubo\C#\Edu\FindWave\FindWave\obj\Debug\FindWave.csprojAssemblyReference.cache
+C:\Ekubo\C#\Edu\FindWave\FindWave\obj\Debug\FindWave.Form1.resources
+C:\Ekubo\C#\Edu\FindWave\FindWave\obj\Debug\FindWave.csproj.GenerateResource.cache
+C:\Ekubo\C#\Edu\FindWave\FindWave\obj\Debug\FindWave.csproj.CoreCompileInputs.cache
+C:\Ekubo\C#\Edu\FindWave\FindWave\obj\Debug\Localiza_Ligação.Properties.Resources.resources
+C:\Ekubo\C#\Edu\FindWave\FindWave\bin\Debug\Localiza_Ligação.exe.config
+C:\Ekubo\C#\Edu\FindWave\FindWave\bin\Debug\Localiza_Ligação.exe
+C:\Ekubo\C#\Edu\FindWave\FindWave\bin\Debug\Localiza_Ligação.pdb
+C:\Ekubo\C#\Edu\FindWave\FindWave\obj\Debug\Localiza_Ligação.exe
+C:\Ekubo\C#\Edu\FindWave\FindWave\obj\Debug\Localiza_Ligação.pdb
+C:\Ekubo\Sistemas C#\Localiza Ligacao\FindWave\bin\Debug\Localiza_Ligação.exe.config
+C:\Ekubo\Sistemas C#\Localiza Ligacao\FindWave\bin\Debug\Localiza_Ligação.exe
+C:\Ekubo\Sistemas C#\Localiza Ligacao\FindWave\bin\Debug\Localiza_Ligação.pdb
+C:\Ekubo\Sistemas C#\Localiza Ligacao\FindWave\obj\Debug\FindWave.csprojAssemblyReference.cache
+C:\Ekubo\Sistemas C#\Localiza Ligacao\FindWave\obj\Debug\FindWave.Form1.resources
+C:\Ekubo\Sistemas C#\Localiza Ligacao\FindWave\obj\Debug\Localiza_Ligação.Properties.Resources.resources
+C:\Ekubo\Sistemas C#\Localiza Ligacao\FindWave\obj\Debug\FindWave.csproj.GenerateResource.cache
+C:\Ekubo\Sistemas C#\Localiza Ligacao\FindWave\obj\Debug\FindWave.csproj.CoreCompileInputs.cache
+C:\Ekubo\Sistemas C#\Localiza Ligacao\FindWave\obj\Debug\Localiza_Ligação.exe
+C:\Ekubo\Sistemas C#\Localiza Ligacao\FindWave\obj\Debug\Localiza_Ligação.pdb
+C:\Ekubo\Sistemas C#\Vonix_Localiza Ligacao\FindWave\bin\Debug\Localiza_Ligação.exe.config
+C:\Ekubo\Sistemas C#\Vonix_Localiza Ligacao\FindWave\bin\Debug\Localiza_Ligação.exe
+C:\Ekubo\Sistemas C#\Vonix_Localiza Ligacao\FindWave\bin\Debug\Localiza_Ligação.pdb
+C:\Ekubo\Sistemas C#\Vonix_Localiza Ligacao\FindWave\obj\Debug\FindWave.csprojAssemblyReference.cache
+C:\Ekubo\Sistemas C#\Vonix_Localiza Ligacao\FindWave\obj\Debug\FindWave.Form1.resources
+C:\Ekubo\Sistemas C#\Vonix_Localiza Ligacao\FindWave\obj\Debug\Localiza_Ligação.Properties.Resources.resources
+C:\Ekubo\Sistemas C#\Vonix_Localiza Ligacao\FindWave\obj\Debug\FindWave.csproj.GenerateResource.cache
+C:\Ekubo\Sistemas C#\Vonix_Localiza Ligacao\FindWave\obj\Debug\FindWave.csproj.CoreCompileInputs.cache
+C:\Ekubo\Sistemas C#\Vonix_Localiza Ligacao\FindWave\obj\Debug\Localiza_Ligação.exe
+C:\Ekubo\Sistemas C#\Vonix_Localiza Ligacao\FindWave\obj\Debug\Localiza_Ligação.pdb
